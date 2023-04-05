@@ -1,11 +1,11 @@
 ## 本项目遵循"GNU 通用公共许可证协议 v3"(即GPL-3.0)
-### 协议要求的:
+### 协议要求的
 - 修改后的源码也需要公开
 - 版权及协议也要于此协议一致
 - 修改后需要在相应的文件做说明
-### 协议允许的:
+### 协议允许的
 - 商用，分发，修改，专利授权，私用
-### 协议禁止的:
+### 协议禁止的
 - 因使用等造成影响责任承担、也就是说免责申明
 - 在软件分发传播过程中附加上原来没有的协议条款等
 ### 详细内容请查看[LICENSE](https://github.com/Qiumy-bilibili/FightChicken/blob/main/LICENSE)
@@ -30,8 +30,8 @@
 - Main/FightMyself.cs : Player 自身碰到 NPC 的扣分处理
 - Main/GoDead.cs : NPC 碰到子弹(Bullet)的扣血处理
 - Main/GunShoot.cs : 子弹发射
-- Main/InXWall.cs : 判断 Player 是否在左/右的墙里(外)
-- Main/InYWall.cs : 判断 Player 是否在上/下的墙里(外)
+- Main/InXWall.cs : 判断 Player 是否在左/右的边界里(外)
+- Main/InYWall.cs : 判断 Player 是否在上/下的边界里(外)
 - Main/NPCFind.cs : NPC 向 Player 移动
 - Main/Player_ToMouse.cs : 枪朝鼠标位置
 - Main/PlayerMove.cs : Player 移动
