@@ -38,6 +38,7 @@
 ## 客户端与服务端的通讯与处理结构
 ![running](https://github.com/Qiumy-bilibili/FightChicken/blob/main/github/running.png)
 ## 关于二次创作
-二次创作可发送至 bilibiliqiumy@outlook.com
+- 二创作品可发布至 github 上
+- 二创作品可发送至 bilibiliqiumy@outlook.com 而不发布至 github 上
 # 问题反馈
 可以将你的问题发送至 bilibiliqiumy@outlook.com ，看到后会尽快解答
