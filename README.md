@@ -12,32 +12,32 @@
 ---
 # 开发
 ## 开发环境
-- 客户端:Unity 2021.3.16f1c1 + C#
+- 客户端:Unity 2021.3.16f1c1 & C#
 - 服务端:易语言 5.9
 ## 各 C# Script 作用
-- Connect.cs : 与服务器连接 + 通信
-- ServerSettings.cs : 记录服务器IP和端口变量(均为文本型(string))
+- Connect.cs : 与服务器连接 & 通信
+- ServerSettings.cs : 记录服务器IP & 端口变量(均为文本型(string))
 - LoadScene.cs : 场景跳转
 - Lobby/WaitServer.cs : 计时(小数型(float)变量 += 时间(Time.deltaTime))以关闭提示组件(GameObject)
-- Main/Biu.cs : 子弹发射、删除
+- Main/Biu.cs : 子弹向前匀速直线运动 & 删除
 - Main/CountTime.cs : 游戏时间计时
 - Main/EndNow.cs : 更改 Main/CountTime.cs 内的 Time_Now 至游戏结束时间
-- Main/ESCCancel.cs : 游戏菜单的打开、关闭
+- Main/ESCCancel.cs : 游戏菜单的打开 & 关闭
 - Main/FightMyself.cs : Player 自身碰到 NPC 的扣分处理
 - Main/GoDead.cs : NPC 碰到子弹(Bullet)的扣血处理
 - Main/GunShoot.cs : 子弹发射
 - Main/InXWall.cs : 判断 Player 是否在左/右的墙里(外)
 - Main/InYWall.cs : 判断 Player 是否在上/下的墙里(外)
-- Main/NPCFind.cs : NPC 寻找 Player
+- Main/NPCFind.cs : NPC 向 Player 移动
 - Main/Player_ToMouse.cs : 枪朝鼠标位置
 - Main/PlayerMove.cs : Player 移动
-- Main/Redo.cs : 再次进入时进行重置(分数(WritePoint.Point) + 时间(CountTime.Time_Now))
-- Main/RenovateInfo.cs : 刷新 UI(分数 + 时间)
+- Main/Redo.cs : 再次进入时进行重置(分数(WritePoint.Point) & 时间(CountTime.Time_Now))
+- Main/RenovateInfo.cs : 刷新 UI(分数 & 时间)
 - Main/Spawn.cs : 计时以生成 NPC
 - Main/WritePoint.cs : 记录分数(整数型(int))
 ## 客户端与服务端的通讯与处理结构
 ![running](https://github.com/Qiumy-bilibili/FightChicken/blob/main/github/running.png)
 ## 关于二次创作
-二次创作可发送至bilibiliqiumy@outlook.com
+二次创作可发送至 bilibiliqiumy@outlook.com
 # 问题反馈
-可以将你的问题发送至bilibiliqiumy@outlook.com，看到后会尽快解答
+可以将你的问题发送至 bilibiliqiumy@outlook.com ，看到后会尽快解答
