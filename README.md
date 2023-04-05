@@ -44,7 +44,7 @@
 ![running](https://github.com/Qiumy-bilibili/FightChicken/blob/master/Images/running.png)
 
 - Gitee 图源
-![running](https://gitee.com/Qiumy-bilibili/FightChicken/blob/master/github/running.png)
+![running](https://gitee.com/Qiumy-bilibili/FightChicken/raw/master/Images/running.png)
 ## 关于二次创作
 - 二创作品可发布至 github/gitee 上
 - 二创作品可发送至 bilibiliqiumy@outlook.com 而不发布至 github/gitee 上
