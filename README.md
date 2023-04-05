@@ -41,7 +41,8 @@
 - Main/WritePoint.cs : 记录分数(整数型(int))
 ## 客户端与服务端的通讯与处理结构
 - Github图源
-![running](https://github.com/Qiumy-bilibili/FightChicken/blob/master/github/running.png)
+![running](https://github.com/Qiumy-bilibili/FightChicken/blob/master/Images/running.png)
+
 - Gitee 图源
 ![running](https://gitee.com/Qiumy-bilibili/FightChicken/blob/master/github/running.png)
 ## 关于二次创作
