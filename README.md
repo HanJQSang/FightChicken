@@ -15,6 +15,8 @@
 - 客户端:Unity 2021.3.16f1c1 & C#
 - 服务端:易语言 5.9
 ## 注意事项
+- Game : 客户端项目文件
+- Server : 服务端项目文件
 - 首次打开项目文件可能耗时较长，请耐心等待
 ## 各 C# Script 作用
 - Connect.cs : 与服务器连接 & 通信
@@ -40,7 +42,7 @@
 ## 客户端与服务端的通讯与处理结构
 ![running](https://github.com/Qiumy-bilibili/FightChicken/blob/main/github/running.png)
 ## 关于二次创作
-- 二创作品可发布至 github 上
-- 二创作品可发送至 bilibiliqiumy@outlook.com 而不发布至 github 上
+- 二创作品可发布至 github/gitee 上
+- 二创作品可发送至 bilibiliqiumy@outlook.com 而不发布至 github/gitee 上
 # 问题反馈
 可以将你的问题发送至 bilibiliqiumy@outlook.com ，看到后会尽快解答
