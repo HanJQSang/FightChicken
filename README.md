@@ -11,6 +11,10 @@
 ### 详细内容请查看[LICENSE](https://github.com/Qiumy-bilibili/FightChicken/blob/main/LICENSE)
 ---
 # 开发
+## 源代码下载
+考虑到国内特殊的网络环境，这里提供两个渠道下载:
+- Github : 
+- Gitee : 
 ## 开发环境
 - 客户端:Unity 2021.3.16f1c1 & C#
 - 服务端:易语言 5.9
