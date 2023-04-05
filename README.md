@@ -8,7 +8,7 @@
 ### 协议禁止的
 - 因使用等造成影响责任承担、也就是说免责申明
 - 在软件分发传播过程中附加上原来没有的协议条款等
-### 详细内容请查看[LICENSE](https://github.com/Qiumy-bilibili/FightChicken/blob/main/LICENSE)
+### 详细内容请查看[LICENSE( Gitee 源 )](https://gitee.com/Qiumy-bilibili/FightChicken/blob/master/LICENSE)/[LICENSE( Github 源 )](https://github.com/Qiumy-bilibili/FightChicken/blob/main/LICENSE)
 ---
 # 开发
 ## 源代码下载
