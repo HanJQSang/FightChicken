@@ -9,6 +9,7 @@
 禁止因使用等造成影响责任承担、也就是说免责申明
 静止在软件分发传播过程中附加上原来没有的协议条款等
 ### 详细内容请查看LICENSE
+-
 # 关于游戏
 ## 初次开发
 总耗时两天半
@@ -20,7 +21,6 @@
 客户端源代码大部分采用C#语言
 ## 客户端与服务端的通讯与处理结构
 ![running](https://github.com/Qiumy-bilibili/FightChicken/blob/main/github/running.png)
-
 ## 关于二次创作
 二次创作可发送至bilibiliqiumy@outlook.com
 # 问题反馈
