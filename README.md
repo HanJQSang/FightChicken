@@ -13,8 +13,8 @@
 # 开发
 ## 源代码下载
 考虑到国内特殊的网络环境，这里提供两个渠道下载:
-- Github : 
-- Gitee : 
+- Github 源 : 
+- Gitee 源 : https://gitee.com/Qiumy-bilibili/FightChicken
 ## 开发环境
 - 客户端:Unity 2021.3.16f1c1 & C#
 - 服务端:易语言 5.9
