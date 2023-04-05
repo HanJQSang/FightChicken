@@ -40,7 +40,10 @@
 - Main/Spawn.cs : 计时以生成 NPC
 - Main/WritePoint.cs : 记录分数(整数型(int))
 ## 客户端与服务端的通讯与处理结构
+- Github图源
 ![running](https://github.com/Qiumy-bilibili/FightChicken/blob/main/github/running.png)
+- Gitee 图源
+![running](https://gitee.com/Qiumy-bilibili/FightChicken/blob/master/github/running.png)
 ## 关于二次创作
 - 二创作品可发布至 github/gitee 上
 - 二创作品可发送至 bilibiliqiumy@outlook.com 而不发布至 github/gitee 上
