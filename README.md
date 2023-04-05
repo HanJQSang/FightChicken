@@ -18,7 +18,7 @@
 ## 源代码
 客户端源代码大部分采用C#语言
 ## 客户端与服务端的通讯与处理结构
-![running](https://user-images.githubusercontent.com/90545243/229980593-5c6105ad-adfc-407d-ae56-f5d90f02fefa.png)
+![running](https://github.com/Qiumy-bilibili/FightChicken/blob/main/github/running.png)
 
 ## 关于二次创作
 二次创作可发送至bilibiliqiumy@outlook.com
