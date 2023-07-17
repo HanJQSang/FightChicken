@@ -8,13 +8,13 @@
 ### 协议禁止的
 - 因使用等造成影响责任承担、也就是说免责申明
 - 在软件分发传播过程中附加上原来没有的协议条款等
-### 详细内容请查看[LICENSE( Gitee 源 )](https://gitee.com/Qiumy-bilibili/FightChicken/blob/master/LICENSE)/[LICENSE( Github 源 )](https://github.com/Qiumy-bilibili/FightChicken/blob/main/LICENSE)
+### 详细内容请查看[LICENSE( Gitee 源 )](https://gitee.com/QiumyLS/FightChicken/blob/master/LICENSE)/[LICENSE( Github 源 )](https://github.com/QiumyLS/FightChicken/blob/main/LICENSE)
 ---
 # 开发
 ## 源代码下载
 考虑到国内特殊的网络环境，这里提供两个渠道下载:
-- Gitee 源 (国内) : https://gitee.com/Qiumy-bilibili/FightChicken
-- Github 源 (国外) : https://github.com/Qiumy-bilibili/FightChicken
+- Gitee 源 (国内) : https://gitee.com/QiumyLS/FightChicken
+- Github 源 (国外) : https://github.com/QiumyLS/FightChicken
 ## 开发环境
 - 客户端:Unity 2021.3.16f1c1 & C#
 - 服务端:易语言 5.9
@@ -45,12 +45,12 @@
 - Main/WritePoint.cs : 记录分数(整数型(int))
 ## 客户端与服务端的通讯与处理结构
 - Github图源
-![running](https://github.com/Qiumy-bilibili/FightChicken/blob/master/Images/running.png?raw=true)
+![running](https://github.com/QiumyLS/FightChicken/blob/master/Images/running.png?raw=true)
 
 - Gitee 图源
-![running](https://gitee.com/Qiumy-bilibili/FightChicken/raw/master/Images/running.png)
+![running](https://gitee.com/QiumyLS/FightChicken/raw/master/Images/running.png)
 ## 关于二次创作
 - 二创作品可发布至 github/gitee 上
-- 二创作品可发送至 bilibiliqiumy@outlook.com 而不发布至 github/gitee 上
+- 二创作品可发送至 qiumyls@outlook.com 而不发布至 github/gitee 上
 # 问题反馈
-可以将你的问题发送至 bilibiliqiumy@outlook.com ，看到后会尽快解答
+可以将你的问题发送至 qiumyls@outlook.com ，看到后会尽快解答
