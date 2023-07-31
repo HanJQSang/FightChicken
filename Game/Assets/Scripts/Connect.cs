@@ -157,7 +157,7 @@ public class Connect : MonoBehaviour
         socketSend.Send(buffer);
 	}
 
-    /*private void OnDisable()
+    private void OnDisable()
     {
         Debug.Log("begin OnDisable()");
 
@@ -175,7 +175,7 @@ public class Connect : MonoBehaviour
         }
 
         Debug.Log("end OnDisable()");
-    }*/
+    }
 	
 	public void Connected()
 	{
