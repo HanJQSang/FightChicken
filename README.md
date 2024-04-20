@@ -1,5 +1,5 @@
 ## FightCicken
-[English](https://github.com/HanJQSang/FightChicken/blob/master/docs/README_EN.md) | [简体中文](https://github.com/HanJQSang/FightChicken/blob/master/docs/README_zh-CN.md)
+[English](/blob/master/docs/README_EN.md) | [简体中文](/blob/master/docs/README_zh-CN.md)
 ---
 ## 更多事项请访问我们的网站 [https://fightchicken.lingso.top](https://fightchicken.lingso.top)
 ---
