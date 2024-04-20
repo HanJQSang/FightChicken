@@ -1,5 +1,4 @@
 ## FightCicken
-[English](https://github.com/HanJQSang/FightChicken/blob/master/docs/README_EN.md) | [简体中文](https://github.com/HanJQSang/FightChicken/blob/master/docs/README_zh-CN.md)
 ---
 ## 更多事项请访问我们的网站 [https://fightchicken.lingso.top](https://fightchicken.lingso.top)
 ---
@@ -9,8 +8,8 @@
 - Gitee 源 (中国大陆内) : [https://gitee.com/HanJQSang/FightChicken](https://gitee.com/HanJQSang/FightChicken)
 - Github 源 (中国大陆外) : [https://github.com/HanJQSang/FightChicken](https://github.com/HanJQSang/FightChicken)
 ## 开发环境
-- 客户端:Unity (2021.3.16f1c1) & C#
-- 服务端:易语言 (5.9)
+- 客户端 : Unity (2021.3.16f1c1) & C#
+- 服务端 : 易语言 (5.9)
 ## 注意事项
 - Game : 客户端项目文件
 - Server : 服务端项目文件
