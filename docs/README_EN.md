@@ -1,4 +1,4 @@
-## FightCicken
+## FightChicken
 ---
 ## For more information, please visit our website [https://fightchicken.lingso.top](https://fightchicken.lingso.top)
 ---
