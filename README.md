@@ -1,7 +1,7 @@
 ## 打只因
 [English](/docs/README_EN.md) | [简体中文](/docs/README_zh-CN.md)
 ---
-## 更多事项请访问我们的网站 ~~~[https://fightchicken.lingso.top](https://fightchicken.lingso.top)~~~
+## 更多事项请访问我们的网站 ~~[https://fightchicken.lingso.top](https://fightchicken.lingso.top)~~
 ---
 # 快速设置
 ## 项目下载
