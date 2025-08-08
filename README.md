@@ -27,3 +27,6 @@
 ### 服务端
 - 如客户端与服务端无法建立通讯，可检查 Windows 防火墙是否关闭
 ## 请务必遵守开源协议
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=HanJQSang/FightChicken&type=Date)](https://www.star-history.com/#HanJQSang/FightChicken&Date)
