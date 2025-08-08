@@ -26,3 +26,6 @@
 ### Server
 - If communication cannot be established between the client and server, check if the Windows firewall is turned off
 ## Please make sure to comply with the open source agreement
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=HanJQSang/FightChicken&type=Date)](https://www.star-history.com/#HanJQSang/FightChicken&Date)
